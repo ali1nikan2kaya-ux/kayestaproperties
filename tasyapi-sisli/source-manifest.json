@@ -1,0 +1,27 @@
+{
+  "project": "Taşyapı Şişli",
+  "source": "https://tasyapi.com/tr/tasyapi-sisli-09532",
+  "checked": "2026-10-06",
+  "images": [
+    "https://tasyapi.com/Content/images/Tasyapi_Galeri_2.png",
+    "https://tasyapi.com/Content/images/Sektor/insaat/Tasyapi_Sisli/Tasyapi_Galeri_7_7.jpg",
+    "https://tasyapi.com/Content/images/Sektor/insaat/Tasyapi_Sisli/Tasyapi_Galeri_14_14.jpg",
+    "https://api.tasyapisisli.com/uploads/Content/images/galeri/galeri_22.webp",
+    "https://tasyapi.com/Content/images/Sektor/insaat/Tasyapi_Sisli/Tasyapi_Galeri_5_5.jpg"
+  ],
+  "approval": "User approved installation, including prioritising these two projects",
+  "image_origin": "Official project website, not downloaded Drive files",
+  "delivery_status": "Not verified; omitted",
+  "gallery": "5 selected photos; next/previous modal",
+  "additional_source": "https://www.tasyapisisli.com/",
+  "apartment_image": "Official 2+1 model-apartment virtual-tour living room/kitchen capture",
+  "model_apartment_images": {
+    "source": "https://www.sanal-tur.com/galeri/tas-yapi/",
+    "room": "2+1 Örnek Daire: Salon/Mutfak",
+    "format": "Screenshots of official virtual tour, with original attribution retained"
+  },
+  "gallery_count": 4,
+  "excluded_by_user": [
+    "Model-apartment bedroom"
+  ]
+}
