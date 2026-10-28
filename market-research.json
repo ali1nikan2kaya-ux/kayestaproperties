@@ -1,0 +1,216 @@
+{
+  "updated": "2026-10-16",
+  "sources": {
+    "istanbul-culture": {
+      "title": "Go Türkiye · Istanbul destinations",
+      "url": "https://goturkiye.com/istanbul/destinations",
+      "market": "istanbul",
+      "kind": "official-tourism"
+    },
+    "istanbul-transit": {
+      "title": "Metro İstanbul · Network maps",
+      "url": "https://www.metro.istanbul/en/YolcuHizmetleri/AgHaritalari",
+      "market": "istanbul",
+      "kind": "official-transport"
+    },
+    "toronto-profiles": {
+      "title": "City of Toronto · Neighbourhood profiles",
+      "url": "https://www.toronto.ca/city-government/data-research-maps/neighbourhoods-communities/neighbourhood-profiles/",
+      "market": "toronto",
+      "kind": "municipality"
+    },
+    "toronto-transit": {
+      "title": "TTC · Trip planner",
+      "url": "https://www.ttc.ca/trip-planner",
+      "market": "toronto",
+      "kind": "official-transport"
+    },
+    "toronto-park": {
+      "title": "City of Toronto · High Park",
+      "url": "https://www.toronto.ca/explore-enjoy/parks-recreation/places-spaces/beaches-gardens-attractions/high-park/",
+      "market": "toronto",
+      "kind": "municipality"
+    },
+    "bali-overview": {
+      "title": "Indonesia Travel · Bali",
+      "url": "https://www.indonesia.travel/id/en/destination/bali-nusa-tenggara/bali",
+      "market": "bali",
+      "kind": "official-tourism"
+    },
+    "bali-uluwatu": {
+      "title": "Indonesia Travel · Pura Luhur Uluwatu",
+      "url": "https://www.indonesia.travel/id/en/destination/bali-nusa-tenggara/bali/pura-luhur-uluwatu",
+      "market": "bali",
+      "kind": "official-tourism"
+    }
+  },
+  "articles": [
+    {
+      "id": "istanbul-daily-life",
+      "market": "istanbul",
+      "title": "Choosing an Istanbul neighbourhood around your everyday life",
+      "intro": "Start with an ordinary weekday, then decide which setting deserves a closer look.",
+      "facts": [
+        "Go Türkiye’s Istanbul destination guide includes Kadıköy, Moda, Üsküdar, Beşiktaş-area cultural destinations and northern green destinations such as Belgrade Forest and Kemerburgaz Forest. These are places to research, not evidence that a particular home has a view or a short commute.",
+        "Metro İstanbul publishes network maps. Routes, operating information and the exact journey should be checked when planning a viewing."
+      ],
+      "sections": [
+        {
+          "heading": "Think in journeys, not just district names",
+          "paragraphs": [
+            "Before opening a gallery, write down the places you would actually travel to: work, regular appointments, shopping and the people you see most often. A neighbourhood becomes easier to assess when you can describe the journey from a particular building rather than from a broad district centre.",
+            "Use Metro İstanbul’s network maps to explore rail connections. Then include the walk to the station, transfers and the final part of the trip. A line on a map does not establish a door-to-door travel time."
+          ],
+          "sources": [
+            "istanbul-transit"
+          ]
+        },
+        {
+          "heading": "Waterfront, culture or greener surroundings?",
+          "paragraphs": [
+            "Go Türkiye’s destination guide offers starting points across the city, including Kadıköy and Moda, Üsküdar and northern green destinations such as Belgrade Forest. Use these as a research map for the surroundings that interest you.",
+            "If you want to spend more time outdoors, decide whether you mean a public waterfront walk, a park you can reach regularly or private space within the home. Those are different requirements. Ask about the exact entrance, route and use rights before treating a project as a match."
+          ],
+          "sources": [
+            "istanbul-culture"
+          ]
+        },
+        {
+          "heading": "Visit for the life you plan to lead",
+          "paragraphs": [
+            "Look at the immediate street at the times you expect to use it. Check groceries, everyday services, building access and the practical return journey. If working from home matters, inspect the actual workspace, light and background noise.",
+            "A wider district description cannot establish the outlook, quietness or accessibility of an individual apartment. Keep attractive area information separate from what the selected unit can demonstrate."
+          ],
+          "sources": []
+        },
+        {
+          "heading": "Bring the neighbourhood and the project together",
+          "paragraphs": [
+            "Shortlist a few developments and compare the same questions for each: surroundings, published home options, the journey you need and the documents that still require review. Once you have an offer, confirm its current total price and the conditions for the exact buyer and property.",
+            "Foreign-buyer sales conditions, citizenship and residence permission are separate questions. A lifestyle match alone cannot establish any of them."
+          ],
+          "sources": []
+        }
+      ],
+      "source_ids": [
+        "istanbul-culture",
+        "istanbul-transit"
+      ],
+      "reviewed": "2026-10-16",
+      "scope_note": "Area research and decision guidance; not live property inventory, legal advice or a verified unit recommendation."
+    },
+    {
+      "id": "bali-coast-or-culture",
+      "market": "bali",
+      "title": "Bali: choose the setting before you choose the home",
+      "intro": "Explore coastal and inland priorities without mistaking a beautiful image for a complete picture of daily life.",
+      "facts": [
+        "Indonesia’s official tourism source describes Ubud in connection with arts, culture and terraced rice-field landscapes, and Sanur as a coastal destination associated with sunrise views. These visitor descriptions do not establish the conditions of a specific residential street.",
+        "The official Uluwatu temple page describes a clifftop coastal setting. A clifftop landmark does not establish a villa’s view, public beach access, title or eligibility for foreign buyers."
+      ],
+      "sections": [
+        {
+          "heading": "Separate the destination from the daily routine",
+          "paragraphs": [
+            "A holiday impression is a useful starting point, but your home needs to work on ordinary days too. Decide what you would want nearby, how often you would leave the area and which activities are central to your week.",
+            "For a first comparison, Indonesia’s official tourism material connects Ubud with arts and inland landscapes and Sanur with a coastal, sunrise-facing setting. That gives you themes to explore, not a guarantee about any residential location."
+          ],
+          "sources": [
+            "bali-overview"
+          ]
+        },
+        {
+          "heading": "Ask what “near the coast” really means",
+          "paragraphs": [
+            "Uluwatu’s official destination information describes its temple’s clifftop coastal position. When assessing a home, distinguish an ocean outlook from practical access to the water. Ask for the actual access route and an unedited view from the selected home.",
+            "An illustration, a nearby landmark and the marketing name of an area cannot establish a property’s precise location or view. Compare what is public, what belongs to the development and what belongs to the selected home."
+          ],
+          "sources": [
+            "bali-uluwatu"
+          ]
+        },
+        {
+          "heading": "Test the location at the times you will use it",
+          "paragraphs": [
+            "Before relying on a broad area label, check the particular street, access to daily essentials and the route to your regular destinations. Ask for a current, route-specific check rather than accepting a single island-wide travel estimate.",
+            "If you plan to work from home, investigate connectivity and the actual working space for that property. If you expect visitors, consider the layout, privacy and access they would use."
+          ],
+          "sources": []
+        },
+        {
+          "heading": "Keep lifestyle and purchase rights separate",
+          "paragraphs": [
+            "A setting may fit your life while its proposed purchase or lease arrangement still needs independent review. Identify the exact project, unit, contracting party and rights being offered before comparing the financial terms.",
+            "Have an appropriately qualified local professional review buyer eligibility, the title or lease, permitted use and any management obligations. Tourism information does not prove residential purchase rights, rental permission or future income."
+          ],
+          "sources": []
+        }
+      ],
+      "source_ids": [
+        "bali-overview",
+        "bali-uluwatu"
+      ],
+      "reviewed": "2026-10-16",
+      "scope_note": "Area research and decision guidance; not live property inventory, legal advice or a verified unit recommendation."
+    },
+    {
+      "id": "toronto-neighbourhood-routine",
+      "market": "toronto",
+      "title": "Toronto: compare neighbourhoods through the life you want to live",
+      "intro": "Use municipal information, practical journeys and the exact home to build a more useful shortlist.",
+      "facts": [
+        "The City of Toronto publishes neighbourhood profiles and explains the boundaries used for its 158 neighbourhoods. Statistical neighbourhood names and property marketing descriptions need not describe identical boundaries.",
+        "TTC provides a trip planner and service information. A journey should be checked for the actual origin, destination and travel time.",
+        "The City of Toronto describes High Park as a park with extensive natural areas and recreational features. Check current access and facility notices rather than assuming every attraction is operating."
+      ],
+      "sections": [
+        {
+          "heading": "Begin with a reliable map of the area",
+          "paragraphs": [
+            "Toronto’s municipal neighbourhood profiles help you locate and understand the city’s official statistical areas. Treat them as context for further research; a development’s marketing location may describe a different boundary.",
+            "Compare practical needs such as the journey to work, access to everyday services and the outdoor spaces you would actually use. Avoid choosing a home from a broad neighbourhood reputation alone."
+          ],
+          "sources": [
+            "toronto-profiles"
+          ]
+        },
+        {
+          "heading": "Check the route you will really travel",
+          "paragraphs": [
+            "Use the TTC trip planner for the actual starting point, destination and time of travel. Include the walk to a stop, any transfers and the journey home. Check service information again before a viewing.",
+            "If your routine changes between office days and home-working days, assess both. A development described as central is not automatically convenient for your own destinations."
+          ],
+          "sources": [
+            "toronto-transit"
+          ]
+        },
+        {
+          "heading": "Make green space a practical part of the shortlist",
+          "paragraphs": [
+            "High Park is one example to investigate when regular access to natural surroundings matters. The City’s information describes its natural areas, recreation and ways to reach the park. Current access and facility notices should be checked before a visit.",
+            "For any project, inspect the real route to the park or public space you prefer. A park name in a description does not prove that the selected home overlooks it or has direct access."
+          ],
+          "sources": [
+            "toronto-park"
+          ]
+        },
+        {
+          "heading": "Match the setting, then check the offer",
+          "paragraphs": [
+            "Compare the same items across your project shortlist: precise location, published home options, routes, ongoing building costs and the current written offer. Review the condominium documents relevant to the selected home.",
+            "Canadian residential purchase rules can restrict non-Canadian buyers and include exceptions. Obtain current advice for your situation before treating a Toronto project as eligible for purchase. An international website presentation is not itself evidence of eligibility."
+          ],
+          "sources": []
+        }
+      ],
+      "source_ids": [
+        "toronto-profiles",
+        "toronto-transit",
+        "toronto-park"
+      ],
+      "reviewed": "2026-10-16",
+      "scope_note": "Area research and decision guidance; not live property inventory, legal advice or a verified unit recommendation."
+    }
+  ],
+  "reuse": "The assistant and the journal consume this same reviewed source record. Current conditions require a new official-source search when asked."
+}

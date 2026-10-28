@@ -1,0 +1,54 @@
+/* Approved palette only; original layout and full-width hero retained. */
+:root{--ink:#086454;--green:#086454;--navy:#074c41;--orange:#e5b960;--gold:#e5b960;--cream:#faf8f2;--muted:#52665f;--line:#dfd7c7}
+body{background:#faf8f2}
+.kayesta-header{background:#faf8f2;border-color:#dfd7c7}
+.kayesta-utility{background:#086454}
+.kayesta-header .brand-mark{background:#f1e9dc;color:#e5b960}
+.kayesta-header .brand strong{color:#086454}
+.kayesta-header .brand small{color:#52665f}
+.kayesta-header #mainNav{background:#f0eee6;border-color:#dfd7c7}
+.kayesta-header #mainNav>a[aria-current]:not(.header-consult){background:#faf8f2;color:#086454}
+.kayesta-header #mainNav>a:not(.header-consult):hover,.kayesta-header .services-menu summary:hover{background:#e9eee6}
+.kayesta-header .header-consult{background:#e5b960}
+.kayesta-header .header-search{background:#f0eee6}
+.mobile span{background:#086454}
+.hero{background:#074c41}
+.hero h1 em{color:#e5b960}
+.hero .eyebrow{color:#e5b960;border-color:#e5b960}
+.hero .search{background:#164e46e8}
+.hero .search .button{background:#e5b960;border-color:#e5b960}
+.hero-highlights b{color:#e5b960}
+.pagehead,.consultband{background:#efeee5}
+footer{background:#074c41}
+@media(max-width:1150px){.kayesta-header #mainNav{background:#faf8f2}}
+
+/* Champagne fills need dark petrol labels for readable contrast. */
+.button,.hero .search .button,.kayesta-header .header-consult,.project-collection .view-all-projects,.project-collection .filters .chip[aria-pressed=true]{color:#074c41!important}
+.button.light,.button.outline{color:#086454!important}
+.button:hover,.hero .search .button:hover,.kayesta-header .header-consult:hover,.project-collection .view-all-projects:hover{background:#e5b960;border-color:#e5b960;color:#074c41!important}
+.eyebrow{color:#82672e}.hero .eyebrow,.project-collection .eyebrow{color:#e5b960}
+#ak-assistant .ak-send,#ak-assistant button[type=submit]{color:#074c41}
+.button:not(.light):not(.outline){background:#e5b960;border-color:#e5b960;color:#074c41!important}
+.hero .search{background:#086454e8}
+
+.kayesta-header .brand .kayesta-approved-logo{display:block;width:285px;height:78px;object-fit:cover;object-position:center;max-width:100%}
+@media(max-width:1270px){.kayesta-header .brand .kayesta-approved-logo{width:250px;height:68px}}
+@media(max-width:600px){.kayesta-header .brand .kayesta-approved-logo{width:215px;height:58px}}
+@media(max-width:360px){.kayesta-header .brand .kayesta-approved-logo{width:180px;height:49px}}
+
+/* Text colours follow the actual surface, including legacy page headings. */
+.pagehead{background:#efeee5;color:#074c41}
+.pagehead h1,.pagehead h2{color:#074c41}
+.pagehead p,.pagehead .breadcrumbs{color:#425c53}
+.pagehead .eyebrow{color:#755a25}
+.all-projects-page .pagehead{background:#074c41;color:#fff}
+.all-projects-page .pagehead h1,.all-projects-page .pagehead h2{color:#fff}
+.all-projects-page .pagehead p,.all-projects-page .pagehead .breadcrumbs{color:#f2f5ef}
+.approved-project-caption span.project-view-button,.project-brand{color:#074c41}
+.approved-project-card:hover .project-view-button{background:#efd09a;color:#074c41}
+.approved-project-caption>span.project-location{color:#52665f}
+.about-step,.about-role{color:#52665f}
+.about-principles p,.about-person p,.about-doc-body p,.about-doc-note{color:#425c53}
+.about-intro p,.about-contact p,.about-journey-grid p{color:#f2f5ef}
+.editorial-content .source-note,.consultation-layout .consult-small{color:#52665f}
+.guide-badge{color:#074c41!important}
